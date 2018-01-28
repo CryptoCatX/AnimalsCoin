@@ -11,15 +11,15 @@ What is Animalscoin?
 
 Animalscoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - subsidy halves in 1'000'0000 blocks (~4 years)
+ - ~100 million total coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+The rest is slightly different than Bitcoin.
+ - 100 coins per block
+ - 2020 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Animalscoin client sofware, see http://www.animalscoin.org.
+the Animalscoin client sofware, see http://www.theanimalscoin.com
 
 License
 -------
